@@ -36,3 +36,5 @@ Bước 5: Chọn file config vừa download về.
 Bước cuối: Sau khi import xong các bạn chuột phải vào file config vừa import rồi ấn connect là xong
 
 ![image](https://user-images.githubusercontent.com/93731698/174729602-06399e92-ac63-4818-a420-a9fc1c47d33c.png)
+
+Khi bị lỗi contact: https://www.facebook.com/groups/319495429750576/user/100002736183806/
